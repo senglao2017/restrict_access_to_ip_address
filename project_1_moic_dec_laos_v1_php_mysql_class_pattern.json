@@ -1,8 +1,8 @@
 {
   "status":"online",
-  "locked_host_ip_address":"::1", "_comment":"ຖ້າຕ້ອງການບັງຄັບ Func(ສ່ວນນີ້) ໃຫ້ເປັນ Online ໃຫ້ໃສ່ 'unlocked_active_is_online'", 
+  "locked_host_ip_address":"unlocked_active_is_online", "_comment":"ຖ້າຕ້ອງການບັງຄັບ Func(ສ່ວນນີ້) ໃຫ້ເປັນ Online ໃຫ້ໃສ່ 'unlocked_active_is_online'", 
   "locked_host_domain":"khavy_lao.localhost", "_comment":"ຖ້າຕ້ອງການບັງຄັບ Func(ສ່ວນນີ້) ໃຫ້ເປັນ Online ໃຫ້ໃສ່ 'unlocked_active_is_online'", 
-  "expired_license_date":"2021-02-01",
+  "expired_license_date":"2020-02-01",
   "message":"mysql_class_pattern", 
   "description":"khavy_lao.localhost , ::1"
 }
