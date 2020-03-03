@@ -3,7 +3,7 @@
   "locked_host_ip_address":"localhost", "_comment":"ຖ້າຕ້ອງການບັງຄັບ Func(ສ່ວນນີ້) ໃຫ້ເປັນ Online ໃຫ້ໃສ່ 'unlocked_active_is_online'", 
   "locked_host_domain":"localhost", "_comment":"ຖ້າຕ້ອງການບັງຄັບ Func(ສ່ວນນີ້) ໃຫ້ເປັນ Online ໃຫ້ໃສ່ 'unlocked_active_is_online'", 
   "expired_license_date":"2021-02-01",
-  "message":"mysql_class_pattern"
+  "message":"mysql_class_pattern", 
   "description":""
 }
 
